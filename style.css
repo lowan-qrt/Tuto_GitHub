@@ -1,0 +1,24 @@
+/* Fonts */
+@font-face {
+    font-family: 'Century Gothic';
+    src: url("font/07558_CenturyGothic.ttf") format('truetype');
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 5% 3%;
+    font-family: 'Century Gothic';
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+}
+
+ul li p {
+    font-size: 13px;
+}
